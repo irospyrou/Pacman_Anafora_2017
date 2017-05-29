@@ -14,10 +14,10 @@
   *	Δημιούργησε μια νέα πίστα για το παιχνίδι χρησιμοποιώντας το Tiled.
 
 ### Υλοποίηση:
-  * Αντικατέστησα τον χαρακτήρα του Pacman με τον χαρακτήρα του Mario.
-  <p align="left">
+Aντικατέστησα τον χαρακτήρα του Pacman με τον χαρακτήρα του Mario.
+<p align="left">
     <img src="https://github.com/irospyrou/pacman/blob/master/assets/mario2.png">
-  </p>
+</p>
   * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κέρματα (coins), όπως κάνει και στο αυθεντικό παιχνίδι του Mario.
   ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/coin1.png "Coins")
   * Δημιούργησα μια νέα πίστα με βάση την πίστα που υπήρχε στον φάκελο assets.
