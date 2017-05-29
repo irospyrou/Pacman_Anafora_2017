@@ -16,7 +16,8 @@
 ### Υλοποίηση:
 Aντικατέστησα τον χαρακτήρα του Pacman με τον χαρακτήρα του Mario.
 <p align="left">
-    <img src="https://github.com/irospyrou/pacman/blob/master/assets/mario2.png">
+    <img src="![mario2](https://cloud.githubusercontent.com/assets/15046396/26546513/02e08bd2-4473-11e7-91cb-042165d5378f.png)
+">
 </p>
   * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κέρματα (coins), όπως κάνει και στο αυθεντικό παιχνίδι του Mario.
   ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/coin1.png "Coins")
