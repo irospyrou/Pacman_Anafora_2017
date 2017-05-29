@@ -22,13 +22,17 @@
     <img src="https://cloud.githubusercontent.com/assets/15046396/26546513/02e08bd2-4473-11e7-91cb-042165d5378f.png">
   </p>
   * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κέρματα (coins), όπως κάνει και στο αυθεντικό παιχνίδι του Mario.
-  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/coin1.png "Coins")
+  <p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560502/c2e5d33c-44bf-11e7-8e16-c0043c238d32.png">
+  </p>
   * Δημιούργησα μια νέα πίστα με βάση την πίστα που υπήρχε στον φάκελο assets.
-  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/pacman-map1.png "Level1")
-
+  <p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560518/f59beaaa-44bf-11e7-83cf-3e18dc0f3e4a.png">
+  </p>
 ### Αποτέλεσματα:
- ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/Screenshot.png "Screenshot")
- 
+<p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560529/132fde32-44c0-11e7-89b1-0f2a0aad65e8.png">
+</p> 
 ## 3) Τελικό προσχέδιο έργου για σχολιασμό και βελτιώσεις 
 ### Ζητούμενα:
   * Προσθήκη αντικειμένου που εμφανίζεται και μετά από κάποιο χρονικό διάστημα εξαφανίζεται.
@@ -39,10 +43,16 @@
   * Πρόσθεσα στην κάτω αριστερή γωνία ένα μανιτάρι, το οποίο εξαφανίζεται μετα από ορισμένο χρονικό διάστημα.
   * Πρόσθεσα score, το οποίο αυξάνεται κατά ένα κάθε φορά που ο Mario τρώει ένα κέρμα. 
   * Πρόσθεσα επίσης bonus, τα οποία συμβολίζονται από μανιτάρια στην πίστα του παιχνιδιού, με τα οποία σε επόμενο παραδοτέο θα μπορεί να τρώει τους εχθρούς που θα προστεθούν.
-  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/mushroom1.png "Mushrooms")
+  <p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560553/3b2674a0-44c0-11e7-91be-b0ee16d21c16.png">
+  </p>
   * Επιπλέον έχουν προστεθεί 3 ζωές, τις οποίες συμβολίζω με αστέρια, οι οποίες θα χάνονται αν κάποιος εχθρός που θα προστεθεί φάει τον Mario.
-  ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/star2.png "Stars")
+  <p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560574/69f4f3ba-44c0-11e7-83a5-142133723cc7.png">
+  </p>
   * Τέλος, έχω προσθέσει το theme song του Mario, έναν ήχο όταν τρώει νομίσματα και έναν ξεχωριστό ήχο για όταν τρώει μανιτάρια.
 
 ### Αποτελέσματα:
- ![alt text](https://github.com/irospyrou/pacman/blob/master/assets/Screenshot2.png "Screenshot")
+ <p align="left">
+    <img src="https://cloud.githubusercontent.com/assets/15046396/26560587/851797ec-44c0-11e7-8147-d3cacdff8ffe.png">
+ </p>
