@@ -35,10 +35,12 @@
   <p align="left">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560518/f59beaaa-44bf-11e7-83cf-3e18dc0f3e4a.png">
   </p>
+  
 ### Αποτέλεσματα:
 <p align="left">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560529/132fde32-44c0-11e7-89b1-0f2a0aad65e8.png">
 </p> 
+
 ## Τελικό προσχέδιο έργου για σχολιασμό και βελτιώσεις 
 ### Προτεινόμενες αλλαγές:
   * Προσθήκη αντικειμένου που εμφανίζεται και μετά από κάποιο χρονικό διάστημα εξαφανίζεται.
