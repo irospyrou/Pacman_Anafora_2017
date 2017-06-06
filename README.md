@@ -24,22 +24,22 @@
 
 ### Υλοποίηση:
   * Aρχικά, αντικατέστησα τον χαρακτήρα του Pacman με τον χαρακτήρα του Mario.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26546513/02e08bd2-4473-11e7-91cb-042165d5378f.png">
   </p>
   
   * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κέρματα (coins), όπως κάνει και στο αυθεντικό παιχνίδι του Mario.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560502/c2e5d33c-44bf-11e7-8e16-c0043c238d32.png">
   </p>
   
   * Τέλος, δημιούργησα μια νέα πίστα παιχνιδιού, με χρήση του Tiled, βασισμένη στην πίστα που υπήρχε στον φάκελο assets.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560518/f59beaaa-44bf-11e7-83cf-3e18dc0f3e4a.png">
   </p>
   
 ### Αποτέλεσματα:
-<p align="left">
+<p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560529/132fde32-44c0-11e7-89b1-0f2a0aad65e8.png">
 </p> 
 
@@ -53,19 +53,19 @@
   * Πρόσθεσα στην κάτω αριστερή γωνία ένα μανιτάρι, το οποίο εξαφανίζεται μετα από ορισμένο χρονικό διάστημα.
   * Πρόσθεσα score, το οποίο αυξάνεται κατά ένα κάθε φορά που ο Mario τρώει ένα κέρμα. 
   * Πρόσθεσα επίσης bonus, τα οποία συμβολίζονται από μανιτάρια στην πίστα του παιχνιδιού, με τα οποία σε επόμενο παραδοτέο θα μπορεί να τρώει τους εχθρούς που θα προστεθούν.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560553/3b2674a0-44c0-11e7-91be-b0ee16d21c16.png">
   </p>
   
   * Επιπλέον έχουν προστεθεί 3 ζωές, τις οποίες συμβολίζω με αστέρια, οι οποίες θα χάνονται αν κάποιος εχθρός που θα προστεθεί φάει τον Mario.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560574/69f4f3ba-44c0-11e7-83a5-142133723cc7.png">
   </p>
   
   * Τέλος, έχω προσθέσει το theme song του Mario, έναν ήχο όταν τρώει νομίσματα και έναν ξεχωριστό ήχο για όταν τρώει μανιτάρια.
 
 ### Αποτελέσματα:
- <p align="left">
+ <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26560587/851797ec-44c0-11e7-8147-d3cacdff8ffe.png">
  </p>
 
@@ -77,23 +77,23 @@
 
 ### Υλοποίηση:
   * Πρόσθεσα εχθρούς, συγκεκριμένα τα Goomba που είναι και οι εχθροί του Mario στο αυθεντικό παιχνίδι.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26826443/d8a3340a-4ac1-11e7-98bd-1ac6b6604584.png">
   </p>
   
   * Πλέον, με την συλλογή των μανιταριών ο Mario αποκτά την δυνατότητα να αντιμετωπίσει τους εχθρούς του για το χρονικό διάστημα των 10 δευτερολέπτων.
   * Πρόσθεσα σημεία στα οποία ο χαρακτήρας μας θα κάνει teleport προς την θέση εκκίνησης του χαρακτήρα, τα σημεία αυτά συμβολίζονται με μία πόρτα, όπως στο αυθεντικό παιχνίδι του Mario.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26826670/8f7223ee-4ac2-11e7-99d6-d4b7cc2091de.png">
   </p>
   
   * Επιπλέον, πρόσθεσα χρόνο στο παιχνίδι.
   * Τέλος πρόσθεσα και μία εικόνα background.
-  <p align="left">
+  <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26826785/f824a16e-4ac2-11e7-93b1-f1694d473282.png">
   </p>
 
 ### Αποτελέσματα:
-<p align="left">
+<p align="center">
     <img src="https://cloud.githubusercontent.com/assets/15046396/26827004/e04428d4-4ac3-11e7-9c28-84e4e2f743a6.png">
 </p>
